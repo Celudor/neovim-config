@@ -150,6 +150,7 @@ return {
 			},
 			html = { filetypes = { "html", "twig", "hbs" } },
 			cssls = {},
+			clangd = {},
 			tailwindcss = {},
 			dockerls = {},
 			sqlls = {},
